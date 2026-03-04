@@ -9,5 +9,5 @@ Disease part of CONAND (Clinical Ontology in Anatomical Structure and Disease)
 - [CONAND-abnormalState.ttl](CONAND-abnormalState.ttl)  異常状態の汎用連鎖  
 
 ## SPARQLエンドポイント(仮運用)
-- https://lod.hozo.jp/kz-fuseki/CONANDpre/sparql
 - [Webブラウザからの検索](https://yasgui.triply.cc/?endpoint=https://lod.hozo.jp/kz-fuseki/CONANDpre/sparql)
+- プログラムからのアクセスには `https://lod.hozo.jp/kz-fuseki/CONANDpre/sparql` を利用
